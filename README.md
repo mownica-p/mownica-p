@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mownica
+- 👋 Hi, I’m @Mownica
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Fullstack MERN
 - 💞️ I’m looking to work in Fullstack web development
